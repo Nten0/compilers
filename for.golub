@@ -1,0 +1,24 @@
+extern boolean foo();
+extern void foo2(integer x);
+void test()
+integer x,y,z;
+boolean w;
+string temp;
+begin	
+	if(x==1 || z<=7)
+		y=x+z;
+	else
+		z=5;
+	if (y>=x+z && foobar==2)
+		{
+		tmp1=23;
+		tmp2=3;
+		tmp3=y/w;
+		}
+	for(w=1;w<4;w=w+1)
+	{
+	  w=w+3;
+	  tmp1=tmp1+3;
+	  y=w+1;
+	}
+end
